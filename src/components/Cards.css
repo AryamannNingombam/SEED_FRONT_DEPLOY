@@ -1,0 +1,36 @@
+.cards {
+  padding: 4rem;
+  width:100vw;
+  background: linear-gradient(#0e0e0e, #100630);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(216, 216, 216);
+}
+.cards__container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style: none;
+
+}
+
+/*@media only screen and (min-width: 1200px) {*/
+/*  .content__blog__container {*/
+/*    width: 84%;*/
+/*  }*/
+/*}*/
+
+/*@media only screen and (min-width: 1024px) {*/
+/*  .cards__items {*/
+/*    display: flex;*/
+/*  }*/
+/*}*/
+
+/*@media only screen and (max-width: 1024px) {*/
+/*  .cards__item {*/
+/*    margin-bottom: 2rem;*/
+/*  }*/
+/*}*/
